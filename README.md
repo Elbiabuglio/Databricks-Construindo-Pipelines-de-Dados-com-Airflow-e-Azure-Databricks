@@ -7,7 +7,7 @@ Este repositório contém um guia prático e exemplos de código para explorar e
 
 
 
-## 🛠️ O que você vai aprender
+## 🛠️ Conteúdo do Projeto
 
 🔹 Acessar recursos do Azure Databricks e entender como configurar o ambiente.
 
